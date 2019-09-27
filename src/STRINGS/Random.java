@@ -20,4 +20,12 @@ System.out.println(cal.get(Calendar.DAY_OF_MONTH));
 
 	}
 
+public static void gitcode()
+{
+	
+}
+	
+	
+	
+	
 }
